@@ -2,7 +2,6 @@
 id: accessibility
 title: Accessibility
 permalink: docs/accessibility.html
-next: code-splitting.html
 ---
 
 ## Why Accessibility? {#why-accessibility}

@@ -2,8 +2,6 @@
 id: typechecking-with-proptypes
 title: Typechecking With PropTypes
 permalink: docs/typechecking-with-proptypes.html
-prev: strict-mode.html
-next: uncontrolled-components.html
 redirect_from:
   - "docs/react-api.html#typechecking-with-proptypes"
 ---

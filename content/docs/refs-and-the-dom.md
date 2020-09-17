@@ -2,8 +2,6 @@
 id: refs-and-the-dom
 title: Refs and the DOM
 permalink: docs/refs-and-the-dom.html
-prev: reconciliation.html
-next: render-props.html
 redirect_from:
   - "docs/working-with-the-browser.html"
   - "docs/more-about-refs.html"

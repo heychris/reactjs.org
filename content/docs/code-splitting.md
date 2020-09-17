@@ -2,8 +2,6 @@
 id: code-splitting
 title: Code-Splitting
 permalink: docs/code-splitting.html
-prev: accessibility.html
-next: context.html
 ---
 
 ## Bundling {#bundling}
